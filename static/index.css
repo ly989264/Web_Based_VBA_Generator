@@ -1,0 +1,90 @@
+body {
+    font-family: "Bookman Old Style";
+    text-align: center;
+    border-style: dot-dot-dash;
+    border-color: chocolate;
+    border-radius: 5px;
+    border-width: thick;
+    position: center;
+    alignment: center;
+    left: 0;
+    margin: auto;
+    right: 0;
+    padding-left: 10em;
+    padding-right: 10em;
+    margin-bottom: 20px;
+}
+
+#conditions #OP {
+    border-style: dot-dot-dash;
+    border-width: 30px;
+    border-color: black;
+}
+
+button {
+    background-color: gray;
+    font-family: Arial;
+    color: antiquewhite;
+    font-size: large;
+}
+
+.copy_in1 {
+    width: 2em;
+}
+
+.copy_in3 {
+    width: 2em;
+}
+
+.copy_relation_div {
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.filter_div {
+    padding-top: 15px;
+}
+
+.filter_criteria {
+    margin-top: 3px;
+    margin-left: 1px;
+    margin-right: 1px;
+}
+
+input {
+    border-radius: 2em;
+}
+
+button {
+    border-radius: 2em;
+}
+
+.op {
+    border-style: dot-dot-dash;
+    border-width: medium;
+}
+
+h1 {
+    color: cornflowerblue;
+}
+
+#VBA_code_generator {
+    color: black;
+    font-weight: bold;
+}
+
+h4 {
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-top: 2px;
+    padding-bottom: 0;
+}
+
+code {
+    text-align: left;
+    alignment: left;
+    background-color: #eee;
+    border: 1px solid #999;
+    display: block;
+    margin: 20px;
+}
